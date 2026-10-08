@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "session-band",
+  "description": "session-band: model, effort, context and plan limits under the Claude Code prompt, with restyled transcript rows.",
+  "owner": { "name": "Alessandro Ariazzi", "url": "https://github.com/AlessandroAriazzi" },
+  "plugins": [
+    {
+      "name": "session-band",
+      "source": "./",
+      "description": "Model, effort, context and 5-hour limit under the prompt; outlined prompts and tool rows with icons",
+      "version": "0.1.0",
+      "author": { "name": "Alessandro Ariazzi", "url": "https://github.com/AlessandroAriazzi" },
+      "homepage": "https://github.com/AlessandroAriazzi/session-band",
+      "category": "productivity",
+      "license": "MIT"
+    }
+  ]
+}

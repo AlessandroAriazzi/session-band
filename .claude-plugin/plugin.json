@@ -1,0 +1,11 @@
+{
+  "name": "session-band",
+  "version": "0.1.0",
+  "description": "Model, effort, context and 5-hour limit under the prompt; outlined prompts and tool rows with icons",
+  "author": { "name": "Alessandro Ariazzi", "url": "https://github.com/AlessandroAriazzi" },
+  "homepage": "https://github.com/AlessandroAriazzi/session-band",
+  "repository": "https://github.com/AlessandroAriazzi/session-band",
+  "license": "MIT",
+  "keywords": ["claude-code-mod", "statusline", "usage", "transcript"],
+  "types": "./types/index.d.ts"
+}
